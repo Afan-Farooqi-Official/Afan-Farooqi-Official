@@ -12,7 +12,7 @@
 - 📫 How to reach me: affanqaisar000@gmail.com
   
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,tailwindcss,expressjs,nodejs,mongodb,github,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,tailwindcss,expressjs,nodejs,mongodb,github,git,postman,vercel)](https://skillicons.dev)
 
 ![Afan Qaiser Farooqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afan-Farooqi-Official&show_icons=true&theme=transparent)
 
