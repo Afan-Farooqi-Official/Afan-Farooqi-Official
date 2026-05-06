@@ -11,7 +11,7 @@
 ---
 
 <h1> 👨‍💻 About Me </h1>
-I'm <b>Afan Qaiser Farooqi</b>, a dedicated <b>MERN Stack Developer</b> passionate about building scalable web applications that address real‑world challenges.  
+I'm <b>Afan Qaiser Farooqi</b>, a dedicated <b>Full Stack Developer</b> passionate about building scalable web applications that address real‑world challenges.  
 I specialize in designing responsive, user‑friendly interfaces and developing robust backend systems that bring ideas to life.  
 Currently, I’m working on diverse MERN projects, focusing on performance optimization, clean architecture, and intuitive UI design.<br><br>
 
