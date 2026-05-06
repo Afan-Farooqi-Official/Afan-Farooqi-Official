@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=9&text=Hi%20👋,%20I'm%20Afan%20Qaiser%20Farooqi%20‍💻&desc=MERN%20Stack%20Developer%20|%20Crafting%20Responsive%20Web%20Interfaces&descAlign=50&descAlignY=58&fontSize=45&fontAlign=50&fontAlignY=33)
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=9&text=Hi%20👋,%20I'm%20Afan%20Qaiser%20Farooqi%20‍💻&desc=Full%20Stack%20Developer%20|%20Crafting%20Responsive%20Web%20Interfaces&descAlign=50&descAlignY=58&fontSize=45&fontAlign=50&fontAlignY=33)
 
 <!-- GitHub WidgetBox -->
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Afan-Farooqi-Official&data=followers,repositories,commits&theme=darkmode&hide_border=true&font=Roboto)](https://github.com/Afan-Farooqi-Official)
