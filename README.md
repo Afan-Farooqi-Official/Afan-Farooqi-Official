@@ -15,7 +15,7 @@ I'm <b>Afan Qaiser Farooqi</b>, a dedicated <b>Full Stack Developer</b> passiona
 I specialize in designing responsive, user‑friendly interfaces and developing robust backend systems that bring ideas to life.  
 Currently, I’m working on diverse MERN projects, focusing on performance optimization, clean architecture, and intuitive UI design.<br><br>
 
-- 🌱 I’m currently working on **MERN Stack projects**
+- 🌱 I’m currently working on **Real world projects**
 - 📖 I’m currently learning **React Native** and **Agentic AI**
 - 📫 How to reach me: afanqaiserfarooqi@gmail.com
 
