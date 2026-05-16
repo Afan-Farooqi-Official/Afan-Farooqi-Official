@@ -25,7 +25,7 @@ Currently, I’m working on diverse MERN projects, focusing on performance optim
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,bootstrap" />
 </p>
 
 ### Backend
