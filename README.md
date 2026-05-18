@@ -16,7 +16,7 @@ I specialize in designing responsive, user‑friendly interfaces and developing 
 Currently, I’m working on diverse MERN projects, focusing on performance optimization, clean architecture, and intuitive UI design.<br><br>
 
 - 🌱 I’m currently working on **Real world projects**
-- 📖 I’m currently learning **React Native** and **Agentic AI**
+- 📖 I’m currently learning **Agentic AI**
 - 📫 How to reach me: afanqaiserfarooqi@gmail.com
 
 ---
