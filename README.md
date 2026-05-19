@@ -17,7 +17,7 @@ Currently, I’m working on diverse MERN projects, focusing on performance optim
 
 - 🌱 I’m currently working on **Real world projects**
 - 📖 I’m currently learning **Agentic AI**
-- 📫 How to reach me: afanqaiserfarooqi@gmail.com
+- 📫 How to reach me: affanqaisar000@gmail.com
 
 ---
 
