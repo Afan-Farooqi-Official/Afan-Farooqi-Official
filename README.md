@@ -30,7 +30,7 @@ Currently, I’m working on diverse MERN projects, focusing on performance optim
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase,appwrite" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase,appwrite,fastapi" />
 </p>
 
 ### DevOps, Deployment & Tools 
